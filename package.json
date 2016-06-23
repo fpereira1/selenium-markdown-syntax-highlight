@@ -1,12 +1,16 @@
 {
-  "name": "language-generic-config",
-  "version": "0.0.0",
+  "name": "selenium-markdown-syntax-highlight",
+  "author": "Filype Pereira <pereira.filype@gmail.com>",
+  "version": "1.1.0",
   "description": "Provides basic syntax highlighting for configuration files that are just composed of comments or non-comments",
-  "repository": "https://github.com/lee-dohm/language-generic-config",
+  "keywords": [
+    "generic",
+    "configuration",
+    "grammar",
+    "syntax"
+  ],
   "license": "MIT",
   "engines": {
-    "atom": ">0.60.0"
-  },
-  "dependencies": {},
-  "devDependencies": {}
+    "atom": ">=0.196.0 <2.0.0"
+  }
 }
